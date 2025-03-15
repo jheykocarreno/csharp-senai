@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FIC\\Desktop\\Jheyko\\Aula_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B3A7825-A576-4BA5-A926-24909D0F3635}|ExBackEnd_1\\ExBackEnd_1.csproj|c:\\users\\fic\\desktop\\jheyko\\aula_01\\exbackend_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B3A7825-A576-4BA5-A926-24909D0F3635}|ExBackEnd_1\\ExBackEnd_1.csproj|solutionrelative:exbackend_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF28B5C2-2219-4696-9ECA-9B9D47595E76}|Aula_01\\Aula_01.csproj|c:\\users\\fic\\desktop\\jheyko\\aula_01\\aula_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF28B5C2-2219-4696-9ECA-9B9D47595E76}|Aula_01\\Aula_01.csproj|solutionrelative:aula_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FIC\\Desktop\\Jheyko\\Aula_01\\ExBackEnd_1\\Program.cs",
+              "RelativeDocumentMoniker": "ExBackEnd_1\\Program.cs",
+              "ToolTip": "C:\\Users\\FIC\\Desktop\\Jheyko\\Aula_01\\ExBackEnd_1\\Program.cs",
+              "RelativeToolTip": "ExBackEnd_1\\Program.cs",
+              "ViewState": "AgIAABUBAAAAAAAAAADwvyUBAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T15:33:13.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FIC\\Desktop\\Jheyko\\Aula_01\\Aula_01\\Program.cs",
+              "RelativeDocumentMoniker": "Aula_01\\Program.cs",
+              "ToolTip": "C:\\Users\\FIC\\Desktop\\Jheyko\\Aula_01\\Aula_01\\Program.cs",
+              "RelativeToolTip": "Aula_01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:08:31.183Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

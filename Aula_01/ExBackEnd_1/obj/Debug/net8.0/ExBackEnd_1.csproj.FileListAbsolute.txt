@@ -1,0 +1,14 @@
+C:\Users\FIC\Desktop\Jheyko\Aula_01\ExBackEnd_1\bin\Debug\net8.0\ExBackEnd_1.exe
+C:\Users\FIC\Desktop\Jheyko\Aula_01\ExBackEnd_1\bin\Debug\net8.0\ExBackEnd_1.deps.json
+C:\Users\FIC\Desktop\Jheyko\Aula_01\ExBackEnd_1\bin\Debug\net8.0\ExBackEnd_1.runtimeconfig.json
+C:\Users\FIC\Desktop\Jheyko\Aula_01\ExBackEnd_1\bin\Debug\net8.0\ExBackEnd_1.dll
+C:\Users\FIC\Desktop\Jheyko\Aula_01\ExBackEnd_1\bin\Debug\net8.0\ExBackEnd_1.pdb
+C:\Users\FIC\Desktop\Jheyko\Aula_01\ExBackEnd_1\obj\Debug\net8.0\ExBackEnd_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\Desktop\Jheyko\Aula_01\ExBackEnd_1\obj\Debug\net8.0\ExBackEnd_1.AssemblyInfoInputs.cache
+C:\Users\FIC\Desktop\Jheyko\Aula_01\ExBackEnd_1\obj\Debug\net8.0\ExBackEnd_1.AssemblyInfo.cs
+C:\Users\FIC\Desktop\Jheyko\Aula_01\ExBackEnd_1\obj\Debug\net8.0\ExBackEnd_1.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Desktop\Jheyko\Aula_01\ExBackEnd_1\obj\Debug\net8.0\ExBackEnd_1.dll
+C:\Users\FIC\Desktop\Jheyko\Aula_01\ExBackEnd_1\obj\Debug\net8.0\refint\ExBackEnd_1.dll
+C:\Users\FIC\Desktop\Jheyko\Aula_01\ExBackEnd_1\obj\Debug\net8.0\ExBackEnd_1.pdb
+C:\Users\FIC\Desktop\Jheyko\Aula_01\ExBackEnd_1\obj\Debug\net8.0\ExBackEnd_1.genruntimeconfig.cache
+C:\Users\FIC\Desktop\Jheyko\Aula_01\ExBackEnd_1\obj\Debug\net8.0\ref\ExBackEnd_1.dll
