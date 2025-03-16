@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FIC\\Desktop\\Jheyko\\Aula_01\\Aula_01\\Aula_01.csproj": {}
+    "C:\\Users\\jheyk\\OneDrive\\Documentos\\C Sharp\\Aula_01\\Aula_01\\Aula_01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FIC\\Desktop\\Jheyko\\Aula_01\\Aula_01\\Aula_01.csproj": {
+    "C:\\Users\\jheyk\\OneDrive\\Documentos\\C Sharp\\Aula_01\\Aula_01\\Aula_01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FIC\\Desktop\\Jheyko\\Aula_01\\Aula_01\\Aula_01.csproj",
+        "projectUniqueName": "C:\\Users\\jheyk\\OneDrive\\Documentos\\C Sharp\\Aula_01\\Aula_01\\Aula_01.csproj",
         "projectName": "Aula_01",
-        "projectPath": "C:\\Users\\FIC\\Desktop\\Jheyko\\Aula_01\\Aula_01\\Aula_01.csproj",
-        "packagesPath": "C:\\Users\\FIC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FIC\\Desktop\\Jheyko\\Aula_01\\Aula_01\\obj\\",
+        "projectPath": "C:\\Users\\jheyk\\OneDrive\\Documentos\\C Sharp\\Aula_01\\Aula_01\\Aula_01.csproj",
+        "packagesPath": "C:\\Users\\jheyk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jheyk\\OneDrive\\Documentos\\C Sharp\\Aula_01\\Aula_01\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\FIC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jheyk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

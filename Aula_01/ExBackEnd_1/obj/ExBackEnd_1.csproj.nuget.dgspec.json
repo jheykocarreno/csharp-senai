@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FIC\\Desktop\\Jheyko\\Aula_01\\ExBackEnd_1\\ExBackEnd_1.csproj": {}
+    "C:\\Users\\jheyk\\OneDrive\\Documentos\\C Sharp\\Aula_01\\ExBackEnd_1\\ExBackEnd_1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FIC\\Desktop\\Jheyko\\Aula_01\\ExBackEnd_1\\ExBackEnd_1.csproj": {
+    "C:\\Users\\jheyk\\OneDrive\\Documentos\\C Sharp\\Aula_01\\ExBackEnd_1\\ExBackEnd_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FIC\\Desktop\\Jheyko\\Aula_01\\ExBackEnd_1\\ExBackEnd_1.csproj",
+        "projectUniqueName": "C:\\Users\\jheyk\\OneDrive\\Documentos\\C Sharp\\Aula_01\\ExBackEnd_1\\ExBackEnd_1.csproj",
         "projectName": "ExBackEnd_1",
-        "projectPath": "C:\\Users\\FIC\\Desktop\\Jheyko\\Aula_01\\ExBackEnd_1\\ExBackEnd_1.csproj",
-        "packagesPath": "C:\\Users\\FIC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FIC\\Desktop\\Jheyko\\Aula_01\\ExBackEnd_1\\obj\\",
+        "projectPath": "C:\\Users\\jheyk\\OneDrive\\Documentos\\C Sharp\\Aula_01\\ExBackEnd_1\\ExBackEnd_1.csproj",
+        "packagesPath": "C:\\Users\\jheyk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jheyk\\OneDrive\\Documentos\\C Sharp\\Aula_01\\ExBackEnd_1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\FIC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jheyk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

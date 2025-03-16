@@ -12,3 +12,18 @@ C:\Users\FIC\Desktop\Jheyko\Aula_01\ExBackEnd_1\obj\Debug\net8.0\refint\ExBackEn
 C:\Users\FIC\Desktop\Jheyko\Aula_01\ExBackEnd_1\obj\Debug\net8.0\ExBackEnd_1.pdb
 C:\Users\FIC\Desktop\Jheyko\Aula_01\ExBackEnd_1\obj\Debug\net8.0\ExBackEnd_1.genruntimeconfig.cache
 C:\Users\FIC\Desktop\Jheyko\Aula_01\ExBackEnd_1\obj\Debug\net8.0\ref\ExBackEnd_1.dll
+C:\Users\jheyk\OneDrive\Documentos\C Sharp\Aula_01\ExBackEnd_1\bin\Debug\net8.0\ExBackEnd_1.exe
+C:\Users\jheyk\OneDrive\Documentos\C Sharp\Aula_01\ExBackEnd_1\bin\Debug\net8.0\ExBackEnd_1.deps.json
+C:\Users\jheyk\OneDrive\Documentos\C Sharp\Aula_01\ExBackEnd_1\bin\Debug\net8.0\ExBackEnd_1.runtimeconfig.json
+C:\Users\jheyk\OneDrive\Documentos\C Sharp\Aula_01\ExBackEnd_1\bin\Debug\net8.0\ExBackEnd_1.dll
+C:\Users\jheyk\OneDrive\Documentos\C Sharp\Aula_01\ExBackEnd_1\bin\Debug\net8.0\ExBackEnd_1.pdb
+C:\Users\jheyk\OneDrive\Documentos\C Sharp\Aula_01\ExBackEnd_1\obj\Debug\net8.0\ExBackEnd_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jheyk\OneDrive\Documentos\C Sharp\Aula_01\ExBackEnd_1\obj\Debug\net8.0\ExBackEnd_1.AssemblyInfoInputs.cache
+C:\Users\jheyk\OneDrive\Documentos\C Sharp\Aula_01\ExBackEnd_1\obj\Debug\net8.0\ExBackEnd_1.AssemblyInfo.cs
+C:\Users\jheyk\OneDrive\Documentos\C Sharp\Aula_01\ExBackEnd_1\obj\Debug\net8.0\ExBackEnd_1.csproj.CoreCompileInputs.cache
+C:\Users\jheyk\OneDrive\Documentos\C Sharp\Aula_01\ExBackEnd_1\obj\Debug\net8.0\ExBackEnd_1.sourcelink.json
+C:\Users\jheyk\OneDrive\Documentos\C Sharp\Aula_01\ExBackEnd_1\obj\Debug\net8.0\ExBackEnd_1.dll
+C:\Users\jheyk\OneDrive\Documentos\C Sharp\Aula_01\ExBackEnd_1\obj\Debug\net8.0\refint\ExBackEnd_1.dll
+C:\Users\jheyk\OneDrive\Documentos\C Sharp\Aula_01\ExBackEnd_1\obj\Debug\net8.0\ExBackEnd_1.pdb
+C:\Users\jheyk\OneDrive\Documentos\C Sharp\Aula_01\ExBackEnd_1\obj\Debug\net8.0\ExBackEnd_1.genruntimeconfig.cache
+C:\Users\jheyk\OneDrive\Documentos\C Sharp\Aula_01\ExBackEnd_1\obj\Debug\net8.0\ref\ExBackEnd_1.dll

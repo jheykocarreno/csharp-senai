@@ -1,0 +1,15 @@
+C:\Users\jheyk\OneDrive\Documentos\C Sharp\Aula_01\Desafio1503\bin\Debug\net8.0\Desafio1503.exe
+C:\Users\jheyk\OneDrive\Documentos\C Sharp\Aula_01\Desafio1503\bin\Debug\net8.0\Desafio1503.deps.json
+C:\Users\jheyk\OneDrive\Documentos\C Sharp\Aula_01\Desafio1503\bin\Debug\net8.0\Desafio1503.runtimeconfig.json
+C:\Users\jheyk\OneDrive\Documentos\C Sharp\Aula_01\Desafio1503\bin\Debug\net8.0\Desafio1503.dll
+C:\Users\jheyk\OneDrive\Documentos\C Sharp\Aula_01\Desafio1503\bin\Debug\net8.0\Desafio1503.pdb
+C:\Users\jheyk\OneDrive\Documentos\C Sharp\Aula_01\Desafio1503\obj\Debug\net8.0\Desafio1503.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jheyk\OneDrive\Documentos\C Sharp\Aula_01\Desafio1503\obj\Debug\net8.0\Desafio1503.AssemblyInfoInputs.cache
+C:\Users\jheyk\OneDrive\Documentos\C Sharp\Aula_01\Desafio1503\obj\Debug\net8.0\Desafio1503.AssemblyInfo.cs
+C:\Users\jheyk\OneDrive\Documentos\C Sharp\Aula_01\Desafio1503\obj\Debug\net8.0\Desafio1503.csproj.CoreCompileInputs.cache
+C:\Users\jheyk\OneDrive\Documentos\C Sharp\Aula_01\Desafio1503\obj\Debug\net8.0\Desafio1503.sourcelink.json
+C:\Users\jheyk\OneDrive\Documentos\C Sharp\Aula_01\Desafio1503\obj\Debug\net8.0\Desafio1503.dll
+C:\Users\jheyk\OneDrive\Documentos\C Sharp\Aula_01\Desafio1503\obj\Debug\net8.0\refint\Desafio1503.dll
+C:\Users\jheyk\OneDrive\Documentos\C Sharp\Aula_01\Desafio1503\obj\Debug\net8.0\Desafio1503.pdb
+C:\Users\jheyk\OneDrive\Documentos\C Sharp\Aula_01\Desafio1503\obj\Debug\net8.0\Desafio1503.genruntimeconfig.cache
+C:\Users\jheyk\OneDrive\Documentos\C Sharp\Aula_01\Desafio1503\obj\Debug\net8.0\ref\Desafio1503.dll

@@ -290,5 +290,4 @@ Console.WriteLine("Avançados - 9 - Classificação de Nota");
 Console.WriteLine("Ingresse Nota: ");
 int nota = Convert.ToInt32(Console.ReadLine());
 
-//char classificacao = (nota <= 100 && nota >= 90 ? 'A' : (nota < 90 && nota >= 80 ? 'B' : (nota < 80 && nota >= 70 ? 'C' : (nota < 70 && nota >= 60 ? 'D' : 'F'))));
 Console.WriteLine (nota <= 100 && nota >= 90 ? 'A' : (nota < 90 && nota >= 80 ? 'B' : (nota < 80 && nota >= 70 ? 'C' : (nota < 70 && nota >= 60 ? 'D' : 'F'))));
