@@ -35,6 +35,8 @@ if (accessoOk == true)
 {
     Console.WriteLine("Ingresse sua idade: ");
     idadeEnt = Convert.ToInt32(Console.ReadLine());
+    char nivelEnt1;
+    char nivelEnt2;
 
     if (idadeEnt < 18)
     {
@@ -43,7 +45,7 @@ if (accessoOk == true)
         do
         {
             Console.WriteLine("Escolher 1 nivel: 1, 2 ou 3");
-            char nivelEnt1 = Convert.ToChar(Console.ReadLine());
+            nivelEnt1 = Convert.ToChar(Console.ReadLine());
 
             switch (nivelEnt1)
             {
@@ -68,12 +70,13 @@ if (accessoOk == true)
                     break;
             }
         } while (selOk == false);
+
+        Console.WriteLine($"Nivel 1: {nivelEnt1}");
     }
     else
     {
         bool selOk = false;
-        char nivelEnt1;
-        char nivelEnt2;
+
         do
         {
             Console.WriteLine("Escolher 2 dos 3 niveis: 1, 2 ou 3");
@@ -125,7 +128,6 @@ if (accessoOk == true)
             switch (nivelEnt2)
             {
                 case '1':
-                    Console.WriteLine($"{nivelEnt1}");
                     if (nivelEnt1 == '1')
                     {
                         Console.WriteLine("Nivel já selecionado");
@@ -178,5 +180,8 @@ if (accessoOk == true)
                     break;
             }
         } while (selOk == false);
+
+        Console.WriteLine($"Nivel 1: {nivelEnt1}");
+        Console.WriteLine($"Nivel 2: {nivelEnt2}");
     }
 }
