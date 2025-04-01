@@ -1,0 +1,15 @@
+C:\Users\FIC\Desktop\Jheyko\Assitente de tarefas\Assitente de tarefas\bin\Debug\net8.0\Assitente de tarefas.exe
+C:\Users\FIC\Desktop\Jheyko\Assitente de tarefas\Assitente de tarefas\bin\Debug\net8.0\Assitente de tarefas.deps.json
+C:\Users\FIC\Desktop\Jheyko\Assitente de tarefas\Assitente de tarefas\bin\Debug\net8.0\Assitente de tarefas.runtimeconfig.json
+C:\Users\FIC\Desktop\Jheyko\Assitente de tarefas\Assitente de tarefas\bin\Debug\net8.0\Assitente de tarefas.dll
+C:\Users\FIC\Desktop\Jheyko\Assitente de tarefas\Assitente de tarefas\bin\Debug\net8.0\Assitente de tarefas.pdb
+C:\Users\FIC\Desktop\Jheyko\Assitente de tarefas\Assitente de tarefas\obj\Debug\net8.0\Assitente de tarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\Desktop\Jheyko\Assitente de tarefas\Assitente de tarefas\obj\Debug\net8.0\Assitente de tarefas.AssemblyInfoInputs.cache
+C:\Users\FIC\Desktop\Jheyko\Assitente de tarefas\Assitente de tarefas\obj\Debug\net8.0\Assitente de tarefas.AssemblyInfo.cs
+C:\Users\FIC\Desktop\Jheyko\Assitente de tarefas\Assitente de tarefas\obj\Debug\net8.0\Assitente de tarefas.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Desktop\Jheyko\Assitente de tarefas\Assitente de tarefas\obj\Debug\net8.0\Assitente de tarefas.sourcelink.json
+C:\Users\FIC\Desktop\Jheyko\Assitente de tarefas\Assitente de tarefas\obj\Debug\net8.0\Assitente de tarefas.dll
+C:\Users\FIC\Desktop\Jheyko\Assitente de tarefas\Assitente de tarefas\obj\Debug\net8.0\refint\Assitente de tarefas.dll
+C:\Users\FIC\Desktop\Jheyko\Assitente de tarefas\Assitente de tarefas\obj\Debug\net8.0\Assitente de tarefas.pdb
+C:\Users\FIC\Desktop\Jheyko\Assitente de tarefas\Assitente de tarefas\obj\Debug\net8.0\Assitente de tarefas.genruntimeconfig.cache
+C:\Users\FIC\Desktop\Jheyko\Assitente de tarefas\Assitente de tarefas\obj\Debug\net8.0\ref\Assitente de tarefas.dll
