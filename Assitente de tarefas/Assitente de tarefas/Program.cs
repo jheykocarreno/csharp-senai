@@ -45,7 +45,7 @@ while (sairDoPrograma)
             break;
             
         case "5":
-            ExibirResumo()
+            ExibirResumo();
             break;
             
         case "6":

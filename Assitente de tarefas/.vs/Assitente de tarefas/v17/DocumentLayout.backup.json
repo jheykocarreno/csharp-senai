@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\FIC\\Desktop\\Jheyko\\Assitente de tarefas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F304A783-0B99-42DD-808E-6B24FA8E9EF4}|Assitente de tarefas\\Assitente de tarefas.csproj|c:\\users\\fic\\desktop\\jheyko\\assitente de tarefas\\assitente de tarefas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F304A783-0B99-42DD-808E-6B24FA8E9EF4}|Assitente de tarefas\\Assitente de tarefas.csproj|solutionrelative:assitente de tarefas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\FIC\\Desktop\\Jheyko\\Assitente de tarefas\\Assitente de tarefas\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assitente de tarefas\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "Assitente de tarefas\\Program.cs",
               "ToolTip": "C:\\Users\\FIC\\Desktop\\Jheyko\\Assitente de tarefas\\Assitente de tarefas\\Program.cs",
               "RelativeToolTip": "Assitente de tarefas\\Program.cs",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAgwF4AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAiwDYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-29T18:29:18.558Z",
               "EditorCaption": ""
