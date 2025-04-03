@@ -1,0 +1,14 @@
+C:\Users\jheyk\source\repos\Aula_02\Aula_02\bin\Debug\net8.0\Aula_02.exe
+C:\Users\jheyk\source\repos\Aula_02\Aula_02\bin\Debug\net8.0\Aula_02.deps.json
+C:\Users\jheyk\source\repos\Aula_02\Aula_02\bin\Debug\net8.0\Aula_02.runtimeconfig.json
+C:\Users\jheyk\source\repos\Aula_02\Aula_02\bin\Debug\net8.0\Aula_02.dll
+C:\Users\jheyk\source\repos\Aula_02\Aula_02\bin\Debug\net8.0\Aula_02.pdb
+C:\Users\jheyk\source\repos\Aula_02\Aula_02\obj\Debug\net8.0\Aula_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jheyk\source\repos\Aula_02\Aula_02\obj\Debug\net8.0\Aula_02.AssemblyInfoInputs.cache
+C:\Users\jheyk\source\repos\Aula_02\Aula_02\obj\Debug\net8.0\Aula_02.AssemblyInfo.cs
+C:\Users\jheyk\source\repos\Aula_02\Aula_02\obj\Debug\net8.0\Aula_02.csproj.CoreCompileInputs.cache
+C:\Users\jheyk\source\repos\Aula_02\Aula_02\obj\Debug\net8.0\Aula_02.dll
+C:\Users\jheyk\source\repos\Aula_02\Aula_02\obj\Debug\net8.0\refint\Aula_02.dll
+C:\Users\jheyk\source\repos\Aula_02\Aula_02\obj\Debug\net8.0\Aula_02.pdb
+C:\Users\jheyk\source\repos\Aula_02\Aula_02\obj\Debug\net8.0\Aula_02.genruntimeconfig.cache
+C:\Users\jheyk\source\repos\Aula_02\Aula_02\obj\Debug\net8.0\ref\Aula_02.dll
