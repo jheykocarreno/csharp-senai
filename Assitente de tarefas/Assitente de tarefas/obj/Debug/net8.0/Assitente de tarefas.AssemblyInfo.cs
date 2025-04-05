@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Assitente de tarefas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5acfd92ed6af4d2476b58da8a3ef847680b8d09f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f360d93425df0f7aef73cae0d0e87bb9caed107a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Assitente de tarefas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Assitente de tarefas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
