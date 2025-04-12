@@ -1,18 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\FIC\\Desktop\\Jheyko\\Aula_04\\",
+  "WorkspaceRootPath": "C:\\Users\\FIC\\Desktop\\Jheyko\\csharp-senai\\Aula_04\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F815EDE4-C01C-4BD1-8209-9FA77B4E04B7}|Aula_04\\Aula_04.csproj|c:\\users\\fic\\desktop\\jheyko\\aula_04\\aula_04\\poo_encapsulamento\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F815EDE4-C01C-4BD1-8209-9FA77B4E04B7}|Aula_04\\Aula_04.csproj|solutionrelative:aula_04\\poo_encapsulamento\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F815EDE4-C01C-4BD1-8209-9FA77B4E04B7}|Aula_04\\Aula_04.csproj|c:\\users\\fic\\desktop\\jheyko\\aula_04\\aula_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F815EDE4-C01C-4BD1-8209-9FA77B4E04B7}|Aula_04\\Aula_04.csproj|solutionrelative:aula_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F815EDE4-C01C-4BD1-8209-9FA77B4E04B7}|Aula_04\\Aula_04.csproj|c:\\users\\fic\\desktop\\jheyko\\aula_04\\aula_04\\classes\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F815EDE4-C01C-4BD1-8209-9FA77B4E04B7}|Aula_04\\Aula_04.csproj|solutionrelative:aula_04\\classes\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\FIC\\Desktop\\Jheyko\\csharp-senai\\Aula_04\\Aula_04\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Aula_04\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Contabancaria.cs",
-              "DocumentMoniker": "C:\\Users\\FIC\\Desktop\\Jheyko\\Aula_04\\Aula_04\\POO_Encapsulamento\\Contabancaria.cs",
-              "RelativeDocumentMoniker": "Aula_04\\POO_Encapsulamento\\Contabancaria.cs",
-              "ToolTip": "C:\\Users\\FIC\\Desktop\\Jheyko\\Aula_04\\Aula_04\\POO_Encapsulamento\\Contabancaria.cs",
-              "RelativeToolTip": "Aula_04\\POO_Encapsulamento\\Contabancaria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T14:51:07.312Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\FIC\\Desktop\\Jheyko\\Aula_04\\Aula_04\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\FIC\\Desktop\\Jheyko\\csharp-senai\\Aula_04\\Aula_04\\Program.cs",
               "RelativeDocumentMoniker": "Aula_04\\Program.cs",
-              "ToolTip": "C:\\Users\\FIC\\Desktop\\Jheyko\\Aula_04\\Aula_04\\Program.cs",
+              "ToolTip": "C:\\Users\\FIC\\Desktop\\Jheyko\\csharp-senai\\Aula_04\\Aula_04\\Program.cs",
               "RelativeToolTip": "Aula_04\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T13:48:49.652Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Carro.cs",
-              "DocumentMoniker": "C:\\Users\\FIC\\Desktop\\Jheyko\\Aula_04\\Aula_04\\Classes\\Carro.cs",
-              "RelativeDocumentMoniker": "Aula_04\\Classes\\Carro.cs",
-              "ToolTip": "C:\\Users\\FIC\\Desktop\\Jheyko\\Aula_04\\Aula_04\\Classes\\Carro.cs",
-              "RelativeToolTip": "Aula_04\\Classes\\Carro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T13:48:41.629Z",
+              "WhenOpened": "2025-04-12T18:24:10.054Z",
               "EditorCaption": ""
             }
           ]
